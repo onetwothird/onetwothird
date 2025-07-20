@@ -11,7 +11,10 @@ Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or A
 - ⚡ **Fun fact:** I talk to my code like it understands me—and sometimes, it listens 😄
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@terdeh) 
+[![Facebook: Angelo Decatoria](https://img.shields.io/badge/Facebook-Angelo%20Decatoria-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
+[![Instagram: hmptyy_dmpty](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
+[![LinkedIn: Angelito Decatoria](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
+[![TikTok: @terdeh](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
 
 
 ![snake gif](https://github.com/RandomThirdy/RandomThirdy/blob/output/github-snake-dark.svg)
