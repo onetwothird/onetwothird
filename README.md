@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Thirdy
 **A passionate ComSci Student || Full Stack Developer
 
-Email Me 👉 ✉️ **angelitodecatoriaa.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Seelai – a mobile application designed to enhance everyday productivity
 - 🌱 **I’m currently learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
