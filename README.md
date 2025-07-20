@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Seelai – a mobile application designed to enhance everyday productivity
-- 🌱 **I’m currently learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🔭 **I’m currently working on:** **Seelai** – A mobile application designed to enhance everyday productivity
+- 🌱 **I’m currently learning:** **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 💬 **Ask me about:** Web & Mobile Development, Collaboration, Tech Support
 - 📫 **How to reach me:** angelitodecatoriaa@gmail.com
 - 😄 **Pronouns:** He/Him
