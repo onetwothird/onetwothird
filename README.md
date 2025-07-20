@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or A
 - ⚡ **Fun fact:** I talk to my code like it understands me—and sometimes, it listens 😄
 s
 ## 🌐 Socials:
-[![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelo%20Decatoria-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
+[![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelito%20Decatoria-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
 [![Instagram: hmptyy_dmpty](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
 [![LinkedIn: Angelito Decatoria III](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
 [![TikTok: @terdeh](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
