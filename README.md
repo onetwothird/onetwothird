@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or A
 - 💬 **Ask me about:** Web & Mobile Development, Collaboration, Tech Support
 - 📫 **How to reach me:** angelitodecatoriaa@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I talk to my code like it understands me—and sometimes, it listens 😄
+- ⚡ **Fun fact:** I talk to my code like it understands me — and sometimes, it listens 😄
 
 ## 🌐 Socials:
 [![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
