@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Thirdy 💫
-**A passionate ComSci Student || Full Stack Developer
+Full Stack Developer
 
 Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
 
