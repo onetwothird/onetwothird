@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Thirdy 💫
-Full Stack Developer
+**Full Stack Developer**
 
 Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
 
