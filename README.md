@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirdy;Full+Stack+Developer+%7C+Student;Web+%7C+Mobile+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirdy;Full+Stack+Developer+%7C+Student;Web+%7C+Mobile+%7C" alt="Typing SVG" />
 </div>
 
 Email Me 👉 ✉️ **angelitodecatoriaa.com** | For Collaboration/Project or Anything Else. 😊😊
