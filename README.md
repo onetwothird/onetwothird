@@ -2,16 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Thirdy+%F0%9F%91%8B;Full+Stack+Developer+%7C+Student;Web+%7C+Mobile+Dev" alt="Typing SVG" />
 </div>
 
-**📧 Email Me:** ✉️ **angelitodecatoriaa@gmail.com** | Open to Collaboration, Projects, or Anything Else! 😊😊  
-
-- 🔭 **Currently working on:** *Seelai* – a mobile app for visually impaired users  
-- 🌱 **Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- 💬 **Ask me about:** Web & Mobile Development, Collaboration, Tech Support  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I talk to my code like it understands me — and sometimes, it listens! 😄  
-
----
-
 ## 🌐 Socials
 <div align="center">
   
