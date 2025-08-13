@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&width=500&lines=Hi,+I'm+Thirdy!;Full+Stack+Developer+%7C+Student;Web+%7C+Mobile+Dev" alt="Typing SVG" />
 </div>
 
-
 ## 🌐 Socials
 <div align="center">
   
@@ -12,8 +11,6 @@
 [![TikTok: @terdeh](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://github.com/onetwothird/onetwothird/blob/output/github-snake-dark.svg" alt="snake gif" />
