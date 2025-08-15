@@ -16,8 +16,6 @@
   <img src="https://github.com/onetwothird/onetwothird/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
----
-
 # 💻 Tech Stack
 
 ### 🧠 Programming Languages
