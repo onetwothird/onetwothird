@@ -4,7 +4,6 @@
 
 ## 🌐 Socials
 <div align="center">
-  
 [![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
 [![Instagram: hmptyy_dmpty](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
 [![LinkedIn: Angelito Decatoria III](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
