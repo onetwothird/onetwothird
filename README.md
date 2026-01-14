@@ -4,22 +4,29 @@
 
 ## 🌐 Socials
 <div align="center">
-[![Facebook: Angelito Decatoria III](https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white)](https://facebook.com/angelo.decatoria.5)
-[![Instagram: hmptyy_dmpty](https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hmptyy_dmpty)
-[![LinkedIn: Angelito Decatoria III](https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelitodecatoria)
-[![TikTok: @terdeh](https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@terdeh)
-
+  <a href="https://facebook.com/angelo.decatoria.5">
+    <img src="https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hmptyy_dmpty">
+    <img src="https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/angelitodecatoria">
+    <img src="https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@terdeh">
+    <img src="https://img.shields.io/badge/TikTok-%40terdeh-000000?logo=tiktok&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/onetwothird/onetwothird/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 # 💻 Tech Stack
 
 ### 🧠 Programming Languages
 <div align="center">
-  
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,10 +38,10 @@
 
 ### ⚙️ Frameworks & Libraries
 <div align="center">
-  
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/chakra%20ui-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
@@ -42,7 +49,7 @@
 
 ### 🗄️ Databases
 <div align="center">
-  
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
@@ -67,8 +74,8 @@
 # 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=onetwothird&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=onetwothird&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=onetwothird&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=onetwothird&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onetwothird&theme=dark&hide_border=false&layout=compact)
 
 </div>
@@ -85,6 +92,6 @@
 ## 💰 Support Me
 <div align="center">
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onetwothird)  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onetwothird)
 
 </div>
