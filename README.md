@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/hmptyy_dmpty">
-    <img src="https://img.shields.io/badge/Instagram-hmptyy__dmpty-E4405F?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-ist.thrzy-E4405F?logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/angelitodecatoria">
     <img src="https://img.shields.io/badge/LinkedIn-Angelito%20Decatoria%20III-0077B5?logo=linkedin&logoColor=white" />
