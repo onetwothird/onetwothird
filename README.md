@@ -7,7 +7,7 @@
   <a href="https://facebook.com/angelo.decatoria.5">
     <img src="https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hmptyy_dmpty">
+  <a href="https://instagram.com/ist.thrzy">
     <img src="https://img.shields.io/badge/Instagram-ist.thrzy-E4405F?logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/angelitodecatoria">
