@@ -24,7 +24,7 @@
 
 # 💻 Tech Stack
 
-### Languages, Frameworks & Databases
+### 🚀 Languages, Frameworks & Databases
 <div align="center">
 
 <!-- Programming Languages -->
