@@ -52,7 +52,7 @@
 
 </div>
 
-### Tools, Platforms & Services
+### ⛏️ Tools, Platforms & Services
 <div align="center">
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -68,7 +68,7 @@
 
 </div>
 
-# GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=onetwothird&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
@@ -79,7 +79,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=onetwothird&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Support Me
+## 💰 Support Me
 <div align="center">
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onetwothird)
