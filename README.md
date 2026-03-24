@@ -74,6 +74,7 @@
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/label%20studio-FF6D00?style=for-the-badge&logo=labelstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/roboflow-3C3C3C?style=for-the-badge&logo=roboflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
 
 </div>
 
