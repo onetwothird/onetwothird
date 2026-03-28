@@ -9,7 +9,7 @@
   <a href="https://facebook.com/angelo.decatoria.5">
     <img src="https://img.shields.io/badge/Facebook-Angelito%20Decatoria%20III-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ist.thrzy">
+  <a href="https://instagram.com/cntwxrmss">
     <img src="https://img.shields.io/badge/Instagram-cntwxrmss-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/angelitodecatoria">
