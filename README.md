@@ -82,6 +82,26 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=onetwothird&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onetwothird&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=onetwothird&icon=0&color=0" alt="Profile Views" />
+  </a>
+</div>
+
 ## ☕ Support Me
 
 <div align="center">
@@ -89,3 +109,5 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
