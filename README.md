@@ -94,14 +94,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=onetwothird&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
-
 ## ☕ Support Me
 
 <div align="center">
