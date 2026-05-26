@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,python,react,nextjs,nodejs,express,flutter,bootstrap,tailwind,firebase,supabase,mysql,git,github,figma,vercel,wordpress,tensorflow,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,python,react,nextjs,nodejs,express,flutter,bootstrap,tailwind,firebase,supabase,mysql,git,github,figma,vercel,wordpress,tensorflow,vscode&theme=dark" />
 
 </div>
 
