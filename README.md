@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,python,react,nextjs,nodejs,express,flutter,bootstrap,tailwind,firebase,supabase,mysql,git,github,figma,vercel,wordpress,tensorflow,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,python,react,nextjs,nodejs,express,flutter,bootstrap,tailwind,firebase,supabase,mysql,aws,git,github,figma,vercel,wordpress,tensorflow,vscode&theme=dark" />
 
 </div>
 
@@ -61,6 +61,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
