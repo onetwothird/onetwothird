@@ -1,5 +1,20 @@
 <img src="./assets/banner.jpg" />
 
+<p align="right">
+   <a href="onetwothird.vercel.app" 
+    ><img
+      src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
+  /></a>
+<!--   <a href="https://www.linkedin.com/in/angelito-decatoria/" 
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
+  /></a> -->
+  <a href="mailto:angelitodecatoriaa@gmail.com" 
+    ><img
+      src="https://img.shields.io/badge/Let's Talk-D14836?style=plastic&logo=gmail&logoColor=3aaded&color=black"
+  /></a>
+</p>
+
 <h2>👋 About Me</h2>
 
 `Hi, I'm Angelito P. Decatoria III, an aspiring Software Engineer and Computer Science student passionate about building modern and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through projects and learning.`
