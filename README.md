@@ -1,7 +1,7 @@
 <img src="./assets/banner.jpg" />
 
 <p align="right">
-   <a href="onetwothird.vercel.app" 
+   <a href="https://onetwothird.vercel.app/" 
     ><img
       src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
   /></a>
