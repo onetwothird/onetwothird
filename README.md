@@ -90,3 +90,7 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 
 </div>
+
+<h3>🏷️ Holopin Badges</h3>
+
+[![An image of @onetwothird's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird)
