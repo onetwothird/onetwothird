@@ -2,11 +2,11 @@
 
 <h2>👋 About Me</h2>
 
-`Hi, I'm Angelito P. Decatoria III, an aspiring Software Engineer and a Computer Science student who is passionate about building modern, scalable, and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through hands-on projects and continuous learning.`
+`Hi, I'm Angelito P. Decatoria III, an aspiring Software Engineer and Computer Science student passionate about building modern and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through projects and learning.`
 
-`I'm particularly interested in full-stack development, machine learning, and cloud technologies. I enjoy exploring new frameworks, experimenting with emerging technologies, and building projects that challenge me to become a better developer every day.`
+`I'm interested in full-stack development, machine learning, and cloud technologies. I love exploring new tools, solving problems, and creating projects that help me grow as a developer.`
 
-`When I'm not coding, you'll probably find me playing Valorant or learning something new in tech. I believe curiosity, consistency, and continuous improvement are the keys to becoming a great software engineer, and I'm excited to keep growing throughout my journey.`
+`When I'm not coding, you'll probably find me playing Valorant or exploring new technologies.`
 
 <h3>💻 Technologies and Tools</h3>
 
