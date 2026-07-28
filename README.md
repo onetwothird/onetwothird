@@ -15,7 +15,7 @@
 
 <td valign="top" width="50%">
 
-<h6>👨‍💻 Programming Languages</h6>
+<h6>👨‍💻 Programming and Markup Languages</h6>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
