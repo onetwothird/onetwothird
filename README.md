@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
@@ -40,7 +39,6 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Chakra_UI-319795?style=plastic&logo=chakraui&logoColor=white" />
 
 </td>
 
@@ -84,7 +82,6 @@
 
 <h6>🤖 AI & Machine Learning</h6>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=plastic&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" />
@@ -104,7 +101,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=plastic&logo=firebase&logoColor=black" />
 
 </td>
 
