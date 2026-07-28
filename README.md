@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h2>👋 About Me</h2>
 
 `Hi, I'm Angelito P. Decatoria III, an aspiring Software Engineer and a Computer Science student who is passionate about building modern, scalable, and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through hands-on projects and continuous learning.`
