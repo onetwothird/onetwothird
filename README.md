@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" />
+<img src="./assets/banner.png" />
 
 <p align="right">
    <a href="https://onetwothird.vercel.app/" 
