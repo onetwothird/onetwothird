@@ -124,6 +124,6 @@
 
 </table>
 
-<h3> ★ Holopin Badges</h3>
+<h3> 🎖︎ Holopin Badges</h3>
 
 [![An image of @onetwothird's Holopin badges](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird)
