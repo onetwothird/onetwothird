@@ -107,6 +107,13 @@
 <img src="https://img.shields.io/badge/Google_Colab-000000?style=plastic&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-000000?style=plastic&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kaggle-000000?style=plastic&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=plastic&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-000000?style=plastic&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_AI-000000?style=plastic&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=plastic" />
 
 </td>
 
