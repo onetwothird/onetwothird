@@ -124,6 +124,7 @@
 <img src="https://img.shields.io/badge/AWS-000000?style=plastic&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=white" />
 
 </td>
 
