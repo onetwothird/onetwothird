@@ -1,7 +1,7 @@
 <img src="./assets/banner.png" />
 
 <p align="right">
-   <a href="https://onetwothird.vercel.app/" 
+   <a href="https://angelitodecatoria.com/" 
     ><img
       src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white"
   /></a>
@@ -17,11 +17,11 @@
 
 <h2> 👋︎ About Me</h2>
 
-`Hi, I'm Angelito P. Decatoria III, a Software Engineer and Computer Science student passionate about building modern and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through projects and learning.`
+Hi, I'm Angelito P. Decatoria III, a Software Engineer and Computer Science student passionate about building modern and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through projects and learning.
 
-`I'm interested in full-stack development, machine learning, and cloud technologies. I love exploring new tools, solving problems, and creating projects that help me grow as a developer.`
+I'm interested in full-stack development, machine learning, and cloud technologies. I love exploring new tools, solving problems, and creating projects that help me grow as a developer.
 
-`When I'm not coding, you'll probably find me playing Valorant or exploring new technologies.`
+When I'm not coding, you'll probably find me playing Valorant or exploring new technologies.
 
 <h3> 💻︎ Technologies and Tools</h3>
 
