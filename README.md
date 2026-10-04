@@ -1,18 +1,17 @@
 <img src="./assets/banner.png" />
 
 <p align="right">
-   <a href="https://angelitodecatoria.com/" 
-    ><img
-      src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white"
-  /></a>
-<!--   <a href="https://www.linkedin.com/in/angelito-decatoria/" 
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=white"
-  /></a> -->
-  <a href="mailto:angelitodecatoriaa@gmail.com" 
-    ><img
-      src="https://img.shields.io/badge/Let's_Talk-000000?style=plastic&logo=gmail&logoColor=white"
-  /></a>
+  <a href="https://angelitodecatoria.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" />
+  </a>
+  <!--
+  <a href="https://www.linkedin.com/in/angelito-decatoria/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+  -->
+  <a href="mailto:angelitodecatoriaa@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-000000?style=plastic&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <h2> 👋︎ About Me</h2>
@@ -80,13 +79,23 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=plastic&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-000000?style=plastic&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-000000?style=plastic&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Twilio-000000?style=plastic&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
+
+<!-- AWS with direct icon -->
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/AWS-000000?style=plastic&logo=amazonaws&logoColor=white" />
+</a>
+
+<!-- Visual Studio Code with direct icon -->
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=plastic&logo=visualstudiocode&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 
 </td>
 
@@ -101,8 +110,13 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/TensorFlow_Lite-000000?style=plastic&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-000000?style=plastic&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-000000?style=plastic&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic" />
-<img src="https://img.shields.io/badge/Label_Studio-000000?style=plastic" />
+
+<!-- YOLO -->
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic&logo=yolo&logoColor=white" />
+
+<!-- Label Studio -->
+<img src="https://img.shields.io/badge/Label_Studio-000000?style=plastic&logo=labelstudio&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Roboflow-000000?style=plastic&logo=roboflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-000000?style=plastic&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-000000?style=plastic&logo=jupyter&logoColor=white" />
@@ -113,7 +127,12 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Gemini-000000?style=plastic&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_AI-000000?style=plastic&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-000000?style=plastic" />
+
+<!-- OpenCode -->
+<img src="https://img.shields.io/badge/OpenCode-000000?style=plastic&logo=opencode&logoColor=white" />
+
+<!-- Antigravity -->
+<img src="https://img.shields.io/badge/Antigravity-000000?style=plastic&logo=google&logoColor=white" />
 
 </td>
 
