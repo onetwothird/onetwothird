@@ -83,17 +83,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Cloudinary-000000?style=plastic&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Twilio-000000?style=plastic&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
-
-<!-- AWS with direct icon -->
-<a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/AWS-000000?style=plastic&logo=amazonaws&logoColor=white" />
-</a>
-
-<!-- Visual Studio Code with direct icon -->
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=plastic&logo=visualstudiocode&logoColor=white" />
-</a>
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 
