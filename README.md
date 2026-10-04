@@ -84,7 +84,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-000000?style=plastic&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-000000?style=plastic&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
