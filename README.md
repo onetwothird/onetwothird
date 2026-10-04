@@ -1,17 +1,11 @@
 <img src="./assets/banner.png" />
 
 <p align="right">
-  <a href="https://angelitodecatoria.com/">
-    <img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" />
-  </a>
+  <a href="https://angelitodecatoria.com/"><img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" /></a>
   <!--
-  <a href="https://www.linkedin.com/in/angelito-decatoria/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/angelito-decatoria/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=white" /></a>
   -->
-  <a href="mailto:angelitodecatoriaa@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-000000?style=plastic&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:angelitodecatoriaa@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-000000?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h2> 👋︎ About Me</h2>
@@ -140,7 +134,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 </tr>
 
-</table>
 
 <!-- 
 <h3> 🎖︎ Holopin Badges</h3>
