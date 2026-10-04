@@ -63,10 +63,13 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
+
 <h6> ⛁ Databases & Backend Services</h6>
 
 <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=plastic&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-000000?style=plastic&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=plastic&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-000000?style=plastic&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-000000?style=plastic&logo=supabase&logoColor=white" />
 
