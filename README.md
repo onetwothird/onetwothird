@@ -132,6 +132,8 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 </table>
 
+<!-- 
 <h3> 🎖︎ Holopin Badges</h3>
 
-[![An image of @onetwothird's Holopin badges](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird)
+[![An image of @onetwothird's Holopin badges](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird) 
+-->
