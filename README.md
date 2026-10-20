@@ -48,6 +48,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/React_Native-000000?style=plastic&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=plastic&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=plastic&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000000?style=plastic&logo=expo&logoColor=white" />
 
 </td>
 
@@ -81,6 +82,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-000000?style=plastic&logo=jest&logoColor=white" />
 
 </td>
 
