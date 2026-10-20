@@ -129,6 +129,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-000000?style=plastic&logo=railway&logoColor=white" />
 
 </td>
 
