@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" />
+<img src="./assets/banner-photo.jpg" />
 
 <p align="right">
   <a href="https://angelitodecatoria.com/"><img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" /></a>
