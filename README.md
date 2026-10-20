@@ -59,7 +59,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <td valign="top" width="50%">
 
 
-<h6> ⛁ Databases & Backend Services</h6>
+<h6> ⛁ Databases & ORMs</h6>
 
 <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=plastic&logo=postgresql&logoColor=white" />
