@@ -83,6 +83,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-000000?style=plastic&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=docker&logoColor=white" />
 
 </td>
 
