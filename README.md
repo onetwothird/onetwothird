@@ -10,9 +10,9 @@
 
 <h2> 👋︎ About Me</h2>
 
-Hi, I'm Angelito P. Decatoria III, a Software Engineer and Computer Science student passionate about building modern and user-friendly applications. I enjoy turning ideas into software while continuously improving my skills through projects and learning.
+Hi, I'm Angelito P. Decatoria III, a Software Engineer and Computer Science graduate who builds modern, user-friendly applications. I enjoy turning ideas into software and keep improving my skills through projects.
 
-I'm interested in full-stack development, machine learning, and cloud technologies. I love exploring new tools, solving problems, and creating projects that help me grow as a developer.
+I'm interested in full-stack development, machine learning, and cloud technologies.
 
 When I'm not coding, you'll probably find me playing Valorant or exploring new technologies.
 
@@ -40,15 +40,15 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <h6> 🚀︎ Frameworks & Libraries</h6>
 
 <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-000000?style=plastic&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000000?style=plastic&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-000000?style=plastic&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-000000?style=plastic&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=plastic&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=plastic&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=plastic&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000000?style=plastic&logo=expo&logoColor=white" />
 
 </td>
 
@@ -57,7 +57,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <tr>
 
 <td valign="top" width="50%">
-
 
 <h6> ⛁ Databases & ORMs</h6>
 
@@ -80,8 +79,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-000000?style=plastic&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-000000?style=plastic&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-000000?style=plastic&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=docker&logoColor=white" />
 
@@ -95,17 +92,12 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <h6> 🤖︎ AI & Machine Learning</h6>
 
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow_Lite-000000?style=plastic&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-000000?style=plastic&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-000000?style=plastic&logo=opencv&logoColor=white" />
-
-<!-- YOLO -->
-<img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic&logo=yolo&logoColor=white" />
-
-<!-- Label Studio -->
-<img src="https://img.shields.io/badge/Label_Studio-000000?style=plastic&logo=labelstudio&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=plastic&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/Roboflow-000000?style=plastic&logo=roboflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Label_Studio-000000?style=plastic&logo=labelstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-000000?style=plastic&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-000000?style=plastic&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kaggle-000000?style=plastic&logo=kaggle&logoColor=white" />
@@ -113,13 +105,8 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-000000?style=plastic&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-000000?style=plastic&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_AI-000000?style=plastic&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white" />
-
-<!-- OpenCode -->
 <img src="https://img.shields.io/badge/OpenCode-000000?style=plastic&logo=opencode&logoColor=white" />
-
-<!-- Antigravity -->
 <img src="https://img.shields.io/badge/Antigravity-000000?style=plastic&logo=google&logoColor=white" />
 
 </td>
@@ -137,10 +124,10 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 </td>
 
 </tr>
+</table>
 
-
-<!-- 
+<!--
 <h3> 🎖︎ Holopin Badges</h3>
 
-[![An image of @onetwothird's Holopin badges](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird) 
+[![An image of @onetwothird's Holopin badges](https://holopin.me/onetwothird)](https://holopin.io/@onetwothird)
 -->
