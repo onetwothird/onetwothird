@@ -12,7 +12,7 @@
   <a href="mailto:angelitodecatoriaa@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-000000?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h2> 👋︎ About Me</h2>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/title-about-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/title-about-light.svg" /><img src="./assets/titles/title-about-dark.svg" width="880" alt="About me" /></picture></p>
 
 Hi, I'm Angelito P. Decatoria III, a Software Engineer and Computer Science graduate who builds modern, user-friendly applications. I enjoy turning ideas into software and keep improving my skills through projects.
 
@@ -20,14 +20,16 @@ I'm interested in full-stack development, machine learning, and cloud technologi
 
 When I'm not coding, you'll probably find me playing Valorant or exploring new technologies.
 
-<h3> 💻︎ Technologies and Tools</h3>
+<br />
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/title-stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/title-stack-light.svg" /><img src="./assets/titles/title-stack-dark.svg" width="880" alt="Technologies and tools" /></picture></p>
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<h6> ⌨︎ Programming and Markup Languages</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-languages-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-languages-light.svg" /><img src="./assets/titles/label-languages-dark.svg" width="400" alt="Languages" /></picture></p>
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=css3&logoColor=white" />
@@ -43,7 +45,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
-<h6> 🚀︎ Frameworks & Libraries</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-frameworks-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-frameworks-light.svg" /><img src="./assets/titles/label-frameworks-dark.svg" width="400" alt="Frameworks and libraries" /></picture></p>
 
 <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-000000?style=plastic&logo=react&logoColor=white" />
@@ -66,7 +68,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
-<h6> ⛁ Databases & ORMs</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-databases-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-databases-light.svg" /><img src="./assets/titles/label-databases-dark.svg" width="400" alt="Databases and ORMs" /></picture></p>
 
 <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=plastic&logo=postgresql&logoColor=white" />
@@ -79,7 +81,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
-<h6> ⚒︎ Software & Tools</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-tools-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-tools-light.svg" /><img src="./assets/titles/label-tools-dark.svg" width="400" alt="Software and tools" /></picture></p>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=plastic&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white" />
@@ -100,7 +102,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
-<h6> 🤖︎ AI & Machine Learning</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-ai-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-ai-light.svg" /><img src="./assets/titles/label-ai-dark.svg" width="400" alt="AI and machine learning" /></picture></p>
 
 <img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow_Lite-000000?style=plastic&logo=tensorflow&logoColor=white" />
@@ -124,7 +126,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <td valign="top" width="50%">
 
-<h6> ☁︎ Deployment & Cloud</h6>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/titles/label-cloud-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/titles/label-cloud-light.svg" /><img src="./assets/titles/label-cloud-dark.svg" width="400" alt="Deployment and cloud" /></picture></p>
 
 <img src="https://img.shields.io/badge/AWS-000000?style=plastic&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
