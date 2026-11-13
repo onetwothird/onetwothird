@@ -1,4 +1,8 @@
-<img src="./assets/banner.svg" width="100%" alt="Thirdy, Angelito P. Decatoria III, full-stack software engineer. Stack: TypeScript, React, Next.js, Laravel, Flutter, Python, Go, and more." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-dark.svg" width="100%" alt="Thirdy, Angelito P. Decatoria III, full-stack software engineer. Stack: TypeScript, React, Next.js, Laravel, Flutter, Python, Go, and more." />
+</picture>
 
 <p align="right">
   <a href="https://angelitodecatoria.com/"><img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" /></a>
