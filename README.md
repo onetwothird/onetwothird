@@ -23,6 +23,16 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <br />
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/title-activity-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/title-activity-light.svg" /><img src="./assets/readme/title-activity-dark.svg" width="880" alt="Contributions" /></picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" width="100%" alt="A snake eating my contribution graph" />
+</picture>
+
+<br />
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/title-projects-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/title-projects-light.svg" /><img src="./assets/readme/title-projects-dark.svg" width="880" alt="Featured projects" /></picture>
 
 <p>
@@ -45,16 +55,6 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/title-stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/title-stack-light.svg" /><img src="./assets/readme/title-stack-dark.svg" width="880" alt="Technologies and tools" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/stack-light.svg" /><img src="./assets/readme/stack-dark.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, PHP, Go, Dart, React, Next.js, React Native, Flutter, Laravel, Flask, MySQL, PostgreSQL, Supabase, Firebase, Prisma, YOLOv8, TensorFlow Lite, OpenCV, Whisper, Ollama, Git, GitHub Actions, FFmpeg, Vercel and more." /></picture>
-
-<br />
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/title-activity-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/title-activity-light.svg" /><img src="./assets/readme/title-activity-dark.svg" width="880" alt="Contributions" /></picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" width="100%" alt="A snake eating my contribution graph" />
-</picture>
 
 <!--
 <h3> 🎖︎ Holopin Badges</h3>
