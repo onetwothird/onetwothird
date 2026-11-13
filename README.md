@@ -23,6 +23,8 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 
 <br />
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/title-activity-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/title-activity-light.svg" /><img src="./assets/v2/title-activity-dark.svg" width="880" alt="Contributions" /></picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onetwothird/onetwothird/output/github-snake.svg" />
