@@ -1,4 +1,4 @@
-<img src="./assets/banner-photo.jpg" />
+<img src="./assets/banner.svg" width="100%" alt="Thirdy, Angelito P. Decatoria III, full-stack software engineer. Stack: TypeScript, React, Next.js, Laravel, Flutter, Python, Go, and more." />
 
 <p align="right">
   <a href="https://angelitodecatoria.com/"><img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=esri&logoColor=white" /></a>
@@ -28,10 +28,12 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-000000?style=plastic&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-000000?style=plastic&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-000000?style=plastic&logo=go&logoColor=white" />
 
 </td>
 
@@ -46,6 +48,8 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/Vite-000000?style=plastic&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-000000?style=plastic&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-000000?style=plastic&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=plastic&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=plastic&logo=tailwindcss&logoColor=white" />
@@ -81,6 +85,8 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/WordPress-000000?style=plastic&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-000000?style=plastic&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-000000?style=plastic&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-000000?style=plastic&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=plastic&logo=githubactions&logoColor=white" />
 
 </td>
 
@@ -95,6 +101,7 @@ When I'm not coding, you'll probably find me playing Valorant or exploring new t
 <img src="https://img.shields.io/badge/YOLOv8-000000?style=plastic&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow_Lite-000000?style=plastic&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-000000?style=plastic&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper-000000?style=plastic&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-000000?style=plastic&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/Roboflow-000000?style=plastic&logo=roboflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Label_Studio-000000?style=plastic&logo=labelstudio&logoColor=white" />
