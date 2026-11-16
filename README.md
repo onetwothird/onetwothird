@@ -28,6 +28,11 @@
 </picture>
 
 <br />
+<div align="center">
+
+[![onetwothird on GitRanks: profile](https://gitranks.com/badge/user/onetwothird/profile-card.svg)](https://gitranks.com/profile/onetwothird)
+
+</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/title-projects-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/title-projects-light.svg" /><img src="./assets/v2/title-projects-dark.svg" width="880" alt="Featured projects" /></picture>
 
