@@ -29,6 +29,7 @@
 
 <br />
 
+<!--
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/title-projects-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/title-projects-light.svg" /><img src="./assets/v2/title-projects-dark.svg" width="880" alt="Featured projects" /></picture>
 
 <p>
@@ -51,7 +52,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/title-stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/title-stack-light.svg" /><img src="./assets/v2/title-stack-dark.svg" width="880" alt="Technologies and tools" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/stack-light.svg" /><img src="./assets/v2/stack-dark.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, PHP, Go, Dart, React, Next.js, React Native, Flutter, Laravel, Flask, MySQL, PostgreSQL, Supabase, Firebase, Prisma, YOLOv8, TensorFlow Lite, OpenCV, Whisper, Ollama, Git, GitHub Actions, FFmpeg, Vercel and more." /></picture>
-
+-->
 <!--
 <h3> 🎖︎ Holopin Badges</h3>
 
