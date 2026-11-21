@@ -1,3 +1,5 @@
+<p align="right"><a href="https://hub.xerj.org/contributors/onetwothird"><img src="https://hub.xerj.org/contributors/onetwothird/badge.svg" alt="XERJ Corpus Hub contributor" /></a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/v2/banner-light.svg" />
