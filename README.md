@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/angelito-decatoria/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/link-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/link-linkedin-light.svg" /><img src="./assets/v2/link-linkedin-dark.svg" height="36" alt="LinkedIn" /></picture></a>
   <a href="mailto:angelitodecatoriaa@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/link-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/link-email-light.svg" /><img src="./assets/v2/link-email-dark.svg" height="36" alt="Email" /></picture></a>
   <a href="https://angelitodecatoria.com/resume/Angelito_Decatoria_III_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/link-resume-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/link-resume-light.svg" /><img src="./assets/v2/link-resume-dark.svg" height="36" alt="Resume" /></picture></a>
-  <a href="https://hub.xerj.org/contributors/onetwothird"><img src="https://hub.xerj.org/contributors/onetwothird/badge.svg" height="36" alt="XERJ Corpus Hub contributor" /></a>
+  <a href="https://hub.xerj.org/contributors/onetwothird"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/link-xerj-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/link-xerj-light.svg" /><img src="./assets/v2/link-xerj-dark.svg" height="36" alt="XERJ Corpus Hub contributor" /></picture></a>
 </p>
 
 <br />
