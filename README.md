@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://gitranks.com/profile/onetwothird"><img src="https://gitranks.com/badge/user/onetwothird/profile-card.svg" alt="onetwothird on GitRanks: profile" /></a>
-</p>
-
-<p align="center">
+<p align="right">
   <a href="https://gitranks.com/profile/onetwothird"><img src="https://gitranks.com/badge/user/onetwothird/tier.svg" alt="onetwothird on GitRanks: gitranks Skilled" /></a>
   <a href="https://hub.xerj.org/contributors/onetwothird"><img src="https://hub.xerj.org/contributors/onetwothird/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
 </p>
