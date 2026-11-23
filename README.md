@@ -1,15 +1,21 @@
-<p align="right">
+<p align="center">
   <a href="https://gitranks.com/profile/onetwothird"><img src="https://gitranks.com/badge/user/onetwothird/profile-card.svg" alt="onetwothird on GitRanks: profile" /></a>
-  <br />
+</p>
+
+<p align="center">
   <a href="https://gitranks.com/profile/onetwothird"><img src="https://gitranks.com/badge/user/onetwothird/tier.svg" alt="onetwothird on GitRanks: gitranks Skilled" /></a>
   <a href="https://hub.xerj.org/contributors/onetwothird"><img src="https://hub.xerj.org/contributors/onetwothird/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
 </p>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/v2/banner-light.svg" />
   <img src="./assets/v2/banner-dark.svg" width="100%" alt="Thirdy, Angelito P. Decatoria III, full-stack software engineer. Stack: TypeScript, React, Next.js, Laravel, Flutter, Python, Go, and more." />
 </picture>
+
+<br />
 
 <p>
   <a href="https://angelitodecatoria.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/link-website-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/v2/link-website-light.svg" /><img src="./assets/v2/link-website-dark.svg" height="36" align="absmiddle" alt="Website: angelitodecatoria.com" /></picture></a>
